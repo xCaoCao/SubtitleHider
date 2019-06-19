@@ -1,4 +1,4 @@
-# [Download](https://github.com/xCaoCao/SubtitleHider/raw/master/SubtitleHider.exe)
+# [Download](https://github.com/xCaoCao/SubtitleHider/releases/download/0.1/SubtitleHider.exe)
 Requires .net Framework v4.7.2
 
 ![Image](ILWNFOuqQX.gif)
