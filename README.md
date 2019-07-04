@@ -1,6 +1,6 @@
 # [Download (Windows)](https://github.com/xCaoCao/SubtitleHider/releases/download/0.2/SubtitleHider.exe)
-# [Download (Windows) transparent/blurry](https://github.com/xCaoCao/SubtitleHider/raw/master/SubtitleHiderUWP.rar)
-For installing the blurry version please run "Add-AppDevPackage.ps1" for the time being. [App sideloading](https://www.windowscentral.com/how-enable-windows-10-sideload-apps-outside-store) must be enabled.
+# [Download (Windows) transparent/blurry](https://github.com/xCaoCao/SubtitleHider/releases/download/0.3/SubtitleHiderUWP_1.0.3.0.zip)
+For installing the blurry version please right click "Add-AppDevPackage.ps1" and run with powershell. [App sideloading](https://www.windowscentral.com/how-enable-windows-10-sideload-apps-outside-store) must be enabled.
 
 Requires [.net Framework v4.7.2](http://go.microsoft.com/fwlink/?LinkId=863262)
 
