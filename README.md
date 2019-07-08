@@ -1,4 +1,4 @@
-# [Download (Windows)](https://github.com/xCaoCao/SubtitleHider/releases/download/0.2/SubtitleHider.exe)
+# [Download (Windows) black](https://github.com/xCaoCao/SubtitleHider/releases/download/0.2/SubtitleHider.exe)
 # [Download (Windows) transparent/blurry](https://github.com/xCaoCao/SubtitleHider/releases/download/0.5/SubtitleHiderUWP_1.0.4.0_setup.zip)
 For installing the blurry version please run "setup.bat". [App sideloading](https://www.windowscentral.com/how-enable-windows-10-sideload-apps-outside-store) must be enabled.
 
