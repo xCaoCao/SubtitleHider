@@ -3,7 +3,7 @@
 # [Download (macOS)](https://github.com/xCaoCao/SubtitleHider/releases/download/0.2/subtitle-hider-1.0.0-install.dmg)
 Credit for the Mac version goes to [imron](https://github.com/imron)
 
-![Image](subtitleHiderUWP.png)
+![Image](screen.png)
 
 ![Image](ILWNFOuqQX.gif)
 
