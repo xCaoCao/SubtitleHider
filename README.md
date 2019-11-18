@@ -1,5 +1,5 @@
 # Splitter for Windows
-## [Download](https://github.com/xCaoCao/SubtitleHider/releases/download/0.03/splitter0.03.zip)
+## [Download](https://github.com/xCaoCao/SubtitleHider/releases/download/0.04/splitter0.04.zip)
 ### Splits txt files of multiple languages into sentences for import into Anki.
 <br/>
 
