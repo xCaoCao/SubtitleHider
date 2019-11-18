@@ -1,6 +1,6 @@
 # Splitter for Windows
-## [Download](https://github.com/xCaoCao/SubtitleHider/releases/download/splitter0.1/Splitter.zip)
-### Splits Japanese txt files into sentences for import into Anki.
+## [Download](https://github.com/xCaoCao/SubtitleHider/releases/download/Splitter0.2/Splitter.zip)
+### Splits txt files pf multiple languages into sentences for import into Anki.
 <br/>
 
 # Subtitle Hider
